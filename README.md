@@ -5,6 +5,6 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ikinci repo. İçerisi
 ## İLK ÖDEVİN İÇERİĞİ
 
 Hakkımda ve sevdiğim filmler/diziler
-Patika dev sayfası için link
+Patika dev
 
 [PATİKA](www.patika.dev)
